@@ -1,0 +1,13 @@
+# app-ads.txt for WordPlayX
+# This file must be accessible at: https://your-domain.com/app-ads.txt
+# Replace the placeholder lines below with the exact values provided
+# by your ad network(s) / marketplace(s).
+
+# Example entries (REMOVE or EDIT these with your real data):
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+# appnexus.com, 12345, RESELLER
+
+# Add real lines in the format:
+# <ad-system-domain>, <publisher-id>, <relationship>, <certification-authority-id-optional>
+
+google.com, pub-9957490099163208, DIRECT, f08c47fec0942fa0
